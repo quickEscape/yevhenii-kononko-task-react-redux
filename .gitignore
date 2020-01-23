@@ -11,6 +11,9 @@
 # production
 /build
 
+# materials
+/materials
+
 # misc
 .DS_Store
 .env.local
